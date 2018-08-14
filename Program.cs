@@ -10,7 +10,7 @@ namespace TestingApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git Hello 5");
+            Console.WriteLine("Git Hello rewvbrwbrw");
             Console.ReadKey();
         }
     }
